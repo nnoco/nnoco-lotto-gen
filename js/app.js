@@ -11,7 +11,7 @@ function generate() {
     }
   }
 
-  return numbers.sort((a, b) => { return a - b});
+  return numbers.sort((a, b) => { return a - b });
 }
 
 /* check a duplicated number in array */
